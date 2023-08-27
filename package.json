@@ -17,5 +17,8 @@
   ],
   "peerDependencies": {
     "koishi": "^4.13.8"
+  },
+  "dependencies": {
+    "langchain": "^0.0.135"
   }
 }
